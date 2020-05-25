@@ -1,0 +1,1 @@
+A small experiment in making roguelikes using ROT.js. So far, heavily based off of this tutorial: http://www.roguebasin.roguelikedevelopment.org/index.php?title=Rot.js_tutorial
